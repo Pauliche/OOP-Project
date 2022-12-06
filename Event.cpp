@@ -73,7 +73,7 @@ public:
 		result += name;
 		result += " runs at ";
 		result += startTime;
-		result += " in room ";
+
 
 		char buffer[5];
 		result += buffer;
