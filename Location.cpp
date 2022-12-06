@@ -57,9 +57,9 @@ public:
 
 	string toString() const {
 		string result = "";
-		result += "Cinema ";
+		result += "Location ";
 		result += name;
-		result += " is located at ";
+		result += " is";
 		result += address;
 		result += '\n';
 		return result;
